@@ -10,7 +10,7 @@
 
 **OVERVIEW OF THE PROJECT**
 
-**PROJECT:**Creating a Quiz Application 
+**Project:** Creating a Quiz Application 
 
 **Objective:**
 
