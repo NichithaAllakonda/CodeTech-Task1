@@ -1,8 +1,10 @@
-Name:Allakonda Nichitha
-Company:CODETECH IT SOLUTIONS
-Id: CT08DS5966
-Domain:FRONTEND WEB DEVELOPMENT 
-Duration:4 weeks
+**Name**:Allakonda Nichitha
+**Company**:CODETECH IT SOLUTIONS
+**Id**: CT08DS5966
+**Domain**:FRONTEND WEB DEVELOPMENT 
+**Duration**:4 weeks
+
+
 **OVERVIEW OF THE PROJECT**
 PROJECT:Creating a Quiz Application 
 Objective:
