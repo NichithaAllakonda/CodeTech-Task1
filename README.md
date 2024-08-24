@@ -1,5 +1,5 @@
-Name:Allakonda Nichitha\\
-Company:CODETECH IT SOLUTIONS\\
+Name:Allakonda Nichitha
+Company:CODETECH IT SOLUTIONS
 Id: CT08DS5966
 Domain:FRONTEND WEB DEVELOPMENT 
 Duration:4 weeks
