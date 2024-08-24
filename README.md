@@ -9,8 +9,11 @@
 **Duration**:4 weeks
 
 **OVERVIEW OF THE PROJECT**
-PROJECT:Creating a Quiz Application 
-Objective:
+
+**PROJECT:**Creating a Quiz Application 
+
+**Objective:**
+
 To create an interactive quiz application that allows users to test their knowledge in various topics, 
 with a focus on Python programming. The application will feature a user-friendly interface that guides 
 users from a login page to the quiz environment, tracking their progress by displaying the number of 
