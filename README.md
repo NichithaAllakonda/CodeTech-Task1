@@ -12,7 +12,6 @@ users from a login page to the quiz environment, tracking their progress by disp
 questions answered and those remaining. The goal is to provide an engaging and educational experience,
 accurately assessing users' knowledge and offering immediate feedback on their performance.
 
-KEY ACTIVITIES:
 
 
 
