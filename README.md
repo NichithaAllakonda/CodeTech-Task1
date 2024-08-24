@@ -8,7 +8,6 @@
 
 **Duration**:4 weeks
 
-
 **OVERVIEW OF THE PROJECT**
 
 **Project:** Creating a Quiz Application 
