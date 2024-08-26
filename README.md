@@ -1,4 +1,4 @@
-![Quiz Screenshort 1](https://github.com/user-attachments/assets/9d7ce246-4258-4ffd-8db7-9be53f52725e)
+
 **Name**:Allakonda Nichitha
 
 **Company**:CODETECH IT SOLUTIONS
