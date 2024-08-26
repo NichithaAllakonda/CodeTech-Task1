@@ -1,3 +1,4 @@
+![Quiz Screenshort 1](https://github.com/user-attachments/assets/9d7ce246-4258-4ffd-8db7-9be53f52725e)
 **Name**:Allakonda Nichitha
 
 **Company**:CODETECH IT SOLUTIONS
@@ -38,6 +39,8 @@ Consider using Flexbox or CSS Grid for layout management.
 Handle all interactive features, including form validation, question navigation, and progress tracking.
 Implement logic for shuffling questions, calculating scores.
 
+**SCREENSHORTS:**
 
-
-
+![Quiz Screenshort 1](https://github.com/user-attachments/assets/7a8d47ed-e73a-4cbb-9361-4625312209b3)
+![Quiz ScreenShort](https://github.com/user-attachments/assets/234bf4ed-a0f4-4a44-bad6-a8c528e4729a)
+![Quiz Screenshort 3](https://github.com/user-attachments/assets/aeb7c25b-4625-47aa-ad21-e57693ffde8d)
